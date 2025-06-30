@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=player
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ GerakkanAktor()
+comment3.params=arah
+comment3.target=void\ AnimasiJalan(int)
+numComments=4
