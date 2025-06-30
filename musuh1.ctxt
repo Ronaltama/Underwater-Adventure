@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=musuh1
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ moveLeft()
+comment2.text=\r\n\ Menggerakkan\ aktor\ ke\ kiri\ berdasarkan\ kecepatan.\r\n
+comment3.params=
+comment3.target=void\ respawnRight()
+comment3.text=\r\n\ Memindahkan\ aktor\ ke\ sisi\ kanan\ layar\ pada\ posisi\ Y\ yang\ acak.\r\n
+numComments=4
